@@ -1,0 +1,5 @@
+[
+    {"application_id": 1, "session_id": "aaaa", "message_id": "bbbb", "participants": ["avi aviv", "moshe cohen"], "content": "Hi, how are you today?"},
+    {"application_id": 2, "session_id": "ssss", "message_id": "bbbb", "participants": [], "content": "Hi jjjjj?"},
+    {"application_id": 3, "session_id": "ssss", "message_id": "cccc", "participants": [], "content": "Hi eee?"}
+    ]
